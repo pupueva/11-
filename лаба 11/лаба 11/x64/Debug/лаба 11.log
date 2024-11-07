@@ -1,0 +1,8 @@
+﻿  лаба 11.c
+C:\Users\student\source\repos\лаба 11\лаба 11.c(9,19): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\лаба 11\лаба 11.c(43,14): error C2065: SIZE: необъявленный идентификатор
+C:\Users\student\source\repos\лаба 11\лаба 11.c(43,14): error C2057: требуется константное выражение
+C:\Users\student\source\repos\лаба 11\лаба 11.c(43,14): error C2466: невозможно выделить память для массива постоянного нулевого размера
+C:\Users\student\source\repos\лаба 11\лаба 11.c(43,8): error C2133: array: неизвестный размер
+C:\Users\student\source\repos\лаба 11\лаба 11.c(49,15): error C2440: приведение типов: невозможно преобразовать "float [0]" в "float"
+C:\Users\student\source\repos\лаба 11\лаба 11.c(51,22): error C2065: SIZE: необъявленный идентификатор
